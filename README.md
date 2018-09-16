@@ -39,7 +39,7 @@ Classes will be held every Wednesday (except during exams, holidays and as notif
 ## Mentors
 The Mentors for this course are [Rishi Banerjee](https://github.com/rshrc) , [Parth Goel](https://github.com/parthgoe1),
 [Ayush Kumar](https://github.com/ayush246)
-The Teaching Assistants for this course is [Tarushi Sharma](https://github.com/tash149)
+The Teaching Assistant for this course is [Tarushi Sharma](https://github.com/tash149)
 
 ## Usage Guide
 Fork this repository
